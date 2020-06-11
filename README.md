@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vivjain0387/Space%20Game%20web%20pipeline/_apis/build/status/vivek425ster.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vivjain0387/Space%20Game%20web%20pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
